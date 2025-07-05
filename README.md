@@ -41,4 +41,4 @@ Build a strong foundation before diving into data analysis, automation, or web d
 - This project is part of my personal learning. However, feel free to explore or suggest improvements!
 
 📬 Connect with Me  
-https://www.linkedin.com/in/mugeesuddin16/
+[LinkedIn](https://www.linkedin.com/in/mugeesuddin16)
