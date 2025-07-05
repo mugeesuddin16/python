@@ -23,3 +23,7 @@ Welcome! This repository is a collection of beginner to intermediate **Python pr
    ```bash
    git clone https://github.com/mugeesuddin16/python-topics.git
    cd python-topics
+
+2. Open any topic folder and run the Python files:  
+   cd 04_list\ &\ tuple
+   python example.py
